@@ -1,9 +1,5 @@
 package com.vadonmo.exp.chapter;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 import com.vadonmo.exp.api.StdOut;
 import com.vadonmo.exp.example.Stack;
 
